@@ -8,7 +8,7 @@
    * [Tutorial (Desktop App)](#tutorial-desktop-app)
    * [Tutorial (CLI-Only)](#tutorial-cli-only)
 * [License](#license)
-* Dell Process Slides
+* [Dell Process Slides](https://github.com/DellOutcomeDemos/workbench-example-agentic-rag/blob/main/DellOutcomeDemosTest.pptx)
 * Dell Persona Narrative Slides
 
 # NVIDIA AI Workbench: Introduction [![Open In AI Workbench](https://img.shields.io/badge/Open_In-AI_Workbench-76B900)](https://ngc.nvidia.com/open-ai-workbench/aHR0cHM6Ly9naXRodWIuY29tL05WSURJQS93b3JrYmVuY2gtZXhhbXBsZS1hZ2VudGljLXJhZw==)
